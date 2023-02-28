@@ -1,0 +1,137 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<cinema>
+    <movie id="01">
+        <title name="Plane">
+            <description>A pilot finds himself caught in a war zone after he forced to land his commercial aircraft during a terrible storm.</description>
+                <country place="United States, United Kingdom">
+                    <genre type="Thriller, Action">
+                        <studio name="Lionsgate, G BASE, Di Bonaventura Pictures"> 
+                            <release>
+                                <year>2023</year>
+                                <month>01</month>
+                                <day>13</day>
+                            </release>
+                            <director>
+                                <gender>Male</gender>
+                                <firstname>Jean-François</firstname>
+                                <lastname>Richet</lastname>
+                            </director>
+                            <artist>
+                                <gender>Male</gender>
+                                <firstname>Gerard James</firstname>
+                                <lastname>Butler</lastname>
+                            </artist>
+                        </studio>   
+                    </genre>                                        
+                </country>                                                
+        </title>
+    </movie> 
+
+    <movie id="02">
+        <title name="Black Adam">
+            <description>Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods and imprisoned just as quickly. Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.</description>
+                <country place="United States">
+                    <genre type="Sci-Fi, Action, Fantasy">
+                        <studio name="DC Entertainment, Flynn Picture Company, Motion Picture Foundation of Hungary"> 
+                            <release>
+                                <year>2022</year>
+                                <month>10</month>
+                                <day>21</day>
+                            </release>
+                            <director>
+                                <gender>Male</gender>
+                                <firstname>Jaume</firstname>
+                                <lastname>Collet-Serra</lastname>
+                            </director>
+                            <artist>
+                                <gender>Male</gender>
+                                <firstname>Dwayne Douglas</firstname>
+                                <lastname>Johnson</lastname>
+                            </artist>
+                        </studio>   
+                    </genre>                                        
+                </country>                                                
+        </title>
+    </movie> 
+
+    <movie id="03">
+        <title name="Venom: Let There Be Carnage">
+            <description>Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.</description>
+                <country place="United States">
+                    <genre type="Sci-Fi, Action, Adventure">
+                        <studio name="Pascal Pictures, Marvel Entertainment, Sony Pictures Entertainment SPE"> 
+                            <release>
+                                <year>2021</year>
+                                <month>10</month>
+                                <day>10</day>
+                            </release>
+                            <director>
+                                <gender>Male</gender>
+                                <firstname>Andrew</firstname>
+                                <lastname>Serkis</lastname>
+                            </director>
+                            <artist>
+                                <gender>Male</gender>
+                                <firstname>Edward Thomas</firstname>
+                                <lastname>Hardy</lastname>
+                            </artist>
+                        </studio>   
+                    </genre>                                        
+                </country>                                                
+        </title>
+    </movie> 
+
+    <movie id="04">
+        <title name="Dolittle">
+            <description>A physician who can talk to animals embarks on an adventure to find a legendary island with a young apprentice and a crew of strange pets.</description>
+                <country place="United States, United Kingdom, Japan, China">
+                    <genre type="Comedy, Adventure, Fantasy, Family">
+                        <studio name="Universal Pictures, Dentsu, Perfect World Pictures"> 
+                            <release>
+                                <year>2020</year>
+                                <month>01</month>
+                                <day>01</day>
+                            </release>
+                            <director>
+                                <gender>Male</gender>
+                                <firstname>Stephen</firstname>
+                                <lastname>Gaghan</lastname>
+                            </director>
+                            <artist>
+                                <gender>Male</gender>
+                                <firstname>Robert John</firstname>
+                                <lastname>Downey Jr.</lastname>
+                            </artist>
+                        </studio>   
+                    </genre>                                        
+                </country>                                                
+        </title>
+    </movie> 
+
+    <movie id="05">
+        <title name="John Wick: Chapter 3 - Parabellum">
+            <description>John Wick is on the run after killing a member of the international assassins guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.</description>
+                <country place="United States">
+                    <genre type="Thriller, Action, Crime">
+                        <studio name="Lionsgate, Summit Entertainment, 87Eleven">
+                            <release> 
+                                <year>209</year>
+                                <month>05</month>
+                                <day>15</day>
+                            </release>
+                            <director>
+                                <gender>Male</gender>
+                                <firstname>Chad</firstname>
+                                <lastname>Stahelski</lastname>
+                            </director>
+                            <artist>
+                                <gender>Male</gender>
+                                <firstname>Keanu Charles</firstname>
+                                <lastname>Reeves</lastname>
+                            </artist>
+                        </studio>   
+                    </genre>                                        
+                </country>                                                
+        </title>
+    </movie> 
+</cinema>
